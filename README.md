@@ -24,15 +24,19 @@ This analysis explores demographic and lifestyle drivers including BMI, age, gen
 
 ## 📊 Dashboard Previews
 
-> Screenshots will be added to the `dashboards/` folder once finalised.
+### BMI Dashboard
+![BMI Dashboard](dashboards/lifestyle-bmi-dashboard.png)
 
-Dashboards built in Power BI include:
-- BMI Outliers Dashboard
-- Lifestyle Correlation Dashboard
-- Health Score Overview
+### BMI Outliers
+![BMI Outliers](dashboards/lifestyle-bmi-outliers.png)
+
+### Correlation Coefficient Dashboard
+![Correlation Coefficient](dashboards/correl-coefficient-dashboard.png)
+
+### Health Scores Dashboard
+![Health Scores](dashboards/health-scores-dashboard.png)
 
 ---
-
 ## 🗂️ Project Structure
 
 - 📁 `data/` → raw and cleaned datasets
