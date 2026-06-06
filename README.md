@@ -36,6 +36,11 @@ This analysis explores demographic and lifestyle drivers including BMI, age, gen
 ### Health Scores Dashboard
 ![Health Scores](dashboards/health-scores-dashboard.png)
 
+### Average Calories Burned by Workout Type
+![Workout Type](dashboards/workout-type.png)
+
+### Intensity Vs Consistency
+![Intensity Vs Consistency](dashboards/intensity-vs-consistency.png)
 ---
 ## 🗂️ Project Structure
 
