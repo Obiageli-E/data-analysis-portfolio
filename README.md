@@ -1,6 +1,8 @@
-# 📊 Lifestyle & Health Analysis Project
-
-> Uncovering hidden patterns and outliers in lifestyle data using PostgreSQL and Power BI.
+### [Lifestyle & Health Analysis](https://github.com/Obiageli-E/data-analysis-portfolio)
+Exploring lifestyle and health-related data using PostgreSQL and Power BI 
+to identify trends, patterns, and insights through data visualization 
+and analysis. Includes SQL scripts, Power BI dashboards, and full 
+project documentation.
 
 ---
 
