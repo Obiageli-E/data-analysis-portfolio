@@ -83,7 +83,7 @@ This analysis explores demographic and lifestyle drivers including BMI, age, gen
 
 ## 👩‍💻 About Me
 
-Aspiring Data Analyst passionate about using data visualization and 
+Junior Data Analyst passionate about using data visualization and 
 analytics to uncover insights that support health-focused and social 
 impact initiatives. Skilled in PostgreSQL, Power BI, and Excel. 
 Open to collaboration and feedback.
